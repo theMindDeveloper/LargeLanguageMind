@@ -3,7 +3,7 @@ title: Neuromorphic Neurons vs von Neumann Neurons
 layout: default
 ---
 
-# Neuromorphic Neurons vs von Neumann Neurons  
+# Neuromorphic Neurons vs "von Neumann Neurons"  
 **Date:** 2025-11-29
 **Last Update**: 2025-11-30
 **Topics:** neuromorphic computing, perceptron history, hardware vs software neurons, Rosenblatt’s Mark I  
