@@ -178,3 +178,15 @@ This note reflects only my current understanding of neuromorphic computing, hard
 It is not meant to be a formal academic text, and some explanations are intentionally simplified.  
 I have tried to fact-check the main claims and avoid obvious misunderstandings, but there may still be gaps or inaccuracies.  
 The purpose of this document is to track my own learning process, not to present a final or authoritative view on the topic.
+
+---
+
+## more about that:
+Computerphile:
+https://www.youtube.com/watch?v=Qow8pIvExH4
+fraunhofer:
+https://www.iis.fraunhofer.de/en/ff/sse/ic-design/neuromorphic-computing.html
+Architecture All Access: Neuromorphic Computing Part 1 & 2:
+https://www.youtube.com/watch?v=6Dcs6fQglRA
+https://www.youtube.com/watch?v=XWds3FIVm0U
+
