@@ -157,8 +157,10 @@ But it is increasingly clear that the long-term future of AI — especially if w
 ---
 
 ## Disclaimer  
-This note reflects my current understanding as of 2025.  
-It is not meant to be authoritative; its purpose is to track my learning process and refine my intuition about the relationship between hardware, biology, and modern AI.
+This note reflects only my current understanding of neuromorphic computing, hardware, and machine learning at the time of writing.  
+It is not meant to be a formal academic text, and some explanations are intentionally simplified.  
+I have tried to fact-check the main claims and avoid obvious misunderstandings, but there may still be gaps or inaccuracies.  
+The purpose of this document is to track my own learning process, not to present a final or authoritative view on the topic.
 
 ---
 
