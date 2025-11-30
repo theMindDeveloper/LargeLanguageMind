@@ -5,3 +5,4 @@ A personal research journal documenting my evolving understanding of human cogni
 https://theminddeveloper.github.io/LargeLanguageMind/
 
 ## Notes
+> [Neuromorphic Hardware vs Software-Simulated Neurons](https://theminddeveloper.github.io/LargeLanguageMind/notes/2025-11-29-Neuromorphic_Hardware_vs_Software-Simulated_Neurons.html)
