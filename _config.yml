@@ -12,3 +12,7 @@ baseurl: "/LargeLanguageMind"
 github:
   is_project_page: true
   repository_url: https://github.com/theMindDeveloper/LargeLanguageMind
+
+markdown: kramdown
+kramdown:
+math_engine: null
