@@ -169,3 +169,8 @@ The purpose of this document is to track my own learning process, not to present
 - Computerphile: “Neuromorphic Computing”  
 - Fraunhofer IIS: Neuromorphic Computing Overview  
 - Architecture All Access: “Neuromorphic Computing Part 1 & 2”
+
+---
+Author: TheMindDeveloper
+GitHub: https://github.com/theMindDeveloper
+Email: theminddevlab@gmail.com
