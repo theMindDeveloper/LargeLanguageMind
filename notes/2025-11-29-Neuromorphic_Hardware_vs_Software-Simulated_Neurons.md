@@ -45,7 +45,8 @@ That moment of intuition — that perhaps intelligence should be a physical arch
 
 # 2. Rosenblatt’s Mark I — The First Neuromorphic Machine
 
-![Rosenblatt’s Mark I]([https://example.com/image.jpg](https://www.researchgate.net/figure/Frank-Rosenblatt-with-his-Mark-I-perceptronleft-and-a-graphical-representation-of_fig2_345813508))
+![Perceptron Manual 1960](https://www.glass-bead.org/wp-content/uploads/1-Perceptron-Manual-1960-1.jpg)
+*Figure: An illustration from the 1960 Perceptron Manual, representing early hardware implementations of neural networks.*
 
 What I didn’t know is that someone *did* try to build hardware neurons — long before deep learning existed.
 
