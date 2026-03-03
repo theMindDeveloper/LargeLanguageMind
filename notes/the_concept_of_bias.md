@@ -182,3 +182,8 @@ The framing here overlaps with research on bounded rationality (Simon), fast/slo
     * Provides the formal mathematical definition of bias parameters ($b$) in linear models and neural networks.
 * **Mitchell, T. M. (1980).** *The Need for Biases in Learning Generalizations.*
     * A classic paper demonstrating that without inductive bias, a model is incapable of generalizing beyond its training data.
+
+---
+Author: TheMindDeveloper
+GitHub: https://github.com/theMindDeveloper
+Email: theminddevlab@gmail.com
